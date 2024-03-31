@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298569779655",
+    "project_id": "final-crud-operations",
+    "storage_bucket": "final-crud-operations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298569779655:android:156ef015f080179b36f1e2",
+        "android_client_info": {
+          "package_name": "com.example.crudoperations2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEtaP-qmb2nyaJRdPDDh1HX_qxXdLeahw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298569779655:android:3c2d248dea30975336f1e2",
+        "android_client_info": {
+          "package_name": "com.example.finalcrudoperation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEtaP-qmb2nyaJRdPDDh1HX_qxXdLeahw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
